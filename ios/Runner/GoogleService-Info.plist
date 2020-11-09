@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>963473096880-mprr5ssr26mh4u6bq6uapktrgermhn1l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.963473096880-mprr5ssr26mh4u6bq6uapktrgermhn1l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>963473096880-eiaku97qnd1opjq2ah7g33dl6n14bm2m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAM14C4fjkA9ZHVDyz_U84g-3bM9OVmbEc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>963473096880</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApp</string>
+	<key>PROJECT_ID</key>
+	<string>guide-the-seven-deadly-sins</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guide-the-seven-deadly-sins.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:963473096880:ios:3087b29e4d81203b527b75</string>
+	<key>DATABASE_URL</key>
+	<string>https://guide-the-seven-deadly-sins.firebaseio.com</string>
+</dict>
+</plist>
